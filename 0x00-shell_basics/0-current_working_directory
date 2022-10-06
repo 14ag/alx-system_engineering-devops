@@ -1,2 +1,2 @@
 #!/bin/bash
-realpat $0
+realpath $0
